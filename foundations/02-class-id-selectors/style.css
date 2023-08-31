@@ -1,0 +1,21 @@
+/* style.css */
+
+.number {
+    background-color: lightpink;
+    font-family:Verdana, sans-serif;
+}
+
+#div1 {
+    font-size: 36px;
+    color: blue;
+}
+
+#div4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.font24 {
+    font-size: 24px;
+}
